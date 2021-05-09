@@ -9,8 +9,8 @@ The following steps are carried out:
 1. Importing the data, necessary libraries, & exploring the data to look for missing values.
 2. Selecting the features for analysis, label encoding the ordinal column and splitting the data into test & train.
 3. Training the data using algorithms like Support Vector Machine, Decision Tree, Random Forest, K-Nearest Neighbor, XGBoost Classifier and Artificial Neural Network and    checking the accuracy to find out which algorithm is the best.
-4. Exporting the model with highest accuracy.
-5.Model is Deployed on Heroku Platform with Streamlit Framework.
+4. Exporting the model with highest accuracy.  
+6.Model is Deployed on Heroku Platform with Streamlit Framework.
   Deployment Link: https://impact-prediction-of-incident.herokuapp.com/
 
 
